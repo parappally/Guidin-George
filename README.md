@@ -1,6 +1,8 @@
 # Guidin' George
 Team: Jane Le, Josiah Parappally, Sam Yu. 
 
+<img src="https://i.imgur.com/sYgasRs.jpg" alt="1" width="300"> <img src="https://i.imgur.com/SCb6aAW.jpg" alt="2" width="300">
+
 # Inspiration
 It's scary being lost especially without wifi or mobile data, Guidin' George sends you SMS directions to your target location.
 
